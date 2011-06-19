@@ -1,1 +1,6 @@
-This is a test file 
+This is how you make commits essentially
+git add * for all files you wnat to modify
+git commit -m "<message>"
+git push -u origin master
+
+Need to figure out branching - can't have people committing to mainline directly! 
